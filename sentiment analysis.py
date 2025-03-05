@@ -2,7 +2,7 @@
 sentence = input("what you massage : ")
 sentence = sentence.lower().split()
  
-positive_word= ["good","cool","bmazing", "brilliant"]
+positive_word= ["good","cool","amazing", "brilliant"]
 negative_word= ["bad","uncool","awful", "lame"]
  
 positive_level=0
